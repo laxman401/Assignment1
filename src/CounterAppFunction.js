@@ -13,7 +13,7 @@ return (
     <div>
         <h1>Function Example</h1>
         <button onClick={()=>increaseQty()}>+</button>
-        <h1>{qty}</h1>
+        <h2>{qty}</h2>
         <button onClick={()=>decreaseQty()}>-</button>
     </div>
 

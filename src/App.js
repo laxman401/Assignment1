@@ -4,7 +4,7 @@ import CounterAppClass from './CounterAppClass';
 function App() {
   return (
     <div className="App">
-      <CounterAppClass qtys={1} />
+      <CounterAppClass qtys={0} />
       <CounterAppFunction  qtys={0} />
     </div>
   );
